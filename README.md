@@ -1,4 +1,4 @@
-![Devops Guide](https://github.com/user-attachments/assets/5541f387-55df-4a93-a7cb-78d11f599df2)
+![DevOps Guide](https://github.com/user-attachments/assets/ec8705ef-e14d-4479-940c-aa3be55dfa8b)
 
 > Research, develop and simulate DevOps methodologies. 
 #
