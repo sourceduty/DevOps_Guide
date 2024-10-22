@@ -15,7 +15,7 @@ By offering advice on best practices and providing code snippets when needed, th
 [Farmat Developer](https://github.com/sourceduty/Format_Developer)
 <br>
 [Python](https://github.com/sourceduty/Python)
-<br
+<br>
 [Windows Dev](https://github.com/sourceduty/Windows_Dev)
 <br>
 [OS Developer](https://github.com/sourceduty/OS_Developer)
